@@ -1,1 +1,1 @@
-# w7hw1.github.io
+# week2-rd-responsive-hw-starter
